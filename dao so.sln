@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dao so", "dao so.vcxproj", "{AC001723-8387-40DD-A246-818F9191D7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Debug|x64.ActiveCfg = Debug|x64
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Debug|x64.Build.0 = Debug|x64
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Debug|x86.Build.0 = Debug|Win32
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Release|x64.ActiveCfg = Release|x64
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Release|x64.Build.0 = Release|x64
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Release|x86.ActiveCfg = Release|Win32
+		{AC001723-8387-40DD-A246-818F9191D7D6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E390323-5E42-44B5-B6CC-3E5B5CADFBA0}
+	EndGlobalSection
+EndGlobal
